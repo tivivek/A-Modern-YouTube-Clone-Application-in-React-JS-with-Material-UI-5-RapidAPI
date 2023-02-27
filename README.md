@@ -145,7 +145,6 @@ This application includes the major features of Youtube such as
 - trending videos
 - searching for videos
 - watching videos
-- displaying comments and video details
 
 # Used technologies
 
