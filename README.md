@@ -141,7 +141,7 @@ yarn test
 
 This application includes the major features of Youtube such as
 
-- home feed with infinite scroll
+- home feed with upto 50 videos
 - trending videos
 - searching for videos
 - watching videos
